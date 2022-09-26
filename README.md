@@ -81,6 +81,7 @@ Finally, on a new terminal, go to the repository's root folder and run this to g
 
 Make sure you have [Metamask](https://metamask.io/) installed and listening to `localhost 8545` to interact with the dapp. If things go well, you should see this on your screen.
 
+![demo](https://user-images.githubusercontent.com/112154673/192204347-68b17ecd-0d32-4beb-92c9-f5e5f735703d.gif)
 
 
 
